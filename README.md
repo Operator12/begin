@@ -4,3 +4,4 @@ i can commit
 
 * one
 * two
+* three
